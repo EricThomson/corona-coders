@@ -1,0 +1,5 @@
+*checkpoints*
+*.docx
+*~*
+/__pycache__
+desktop.ini
