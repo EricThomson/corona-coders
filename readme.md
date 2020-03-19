@@ -12,3 +12,7 @@ I'm using conda and built my environ thusly:
     conda create --name cc
     conda activate cc
 I installed jupyter, nodejs, and then had to update jupyter to get things to work on my (Windows) machine.
+
+
+### To do
+Split up lesson 1 into two lessons, and expand the jupyterlab lesson.
